@@ -15,6 +15,7 @@
         "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
         "prettier": "prettier -w ."
     },
+    "homepage": "/chatbox",
     "repository": {
         "type": "git",
         "url": "https://github.com/Bin-Huang/chatbox.git"
